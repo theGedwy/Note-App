@@ -1,3 +1,4 @@
 {
-    "vsintellicode.java.completionsEnabled": false
+    "vsintellicode.java.completionsEnabled": false ,
+    "editor.formatOnSave" :true
 }
